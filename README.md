@@ -2,9 +2,6 @@
 
 ## Overview
 Moogerfooger Analog Delay VST Plugin is a digital recreation inspired by the Moog Moogerfooger MF-104M Analog Delay unit. This plugin is developed using C++ and the JUCE framework, aiming to replicate the warm analog delay sound with modulation and saturation effects.
-<div style="text-align: center; margin-top: 20px;">
-  <img src="https://github.com/alessandro-scalambrino/MoogerFooger-Emulation/assets/156260456/9bd1b14a-e47a-4d94-a9fe-d7869479938b" alt="Moogerfooger Analog Delay GUI" width="400">
-</div>
 
 
 ### Features
@@ -14,6 +11,9 @@ Moogerfooger Analog Delay VST Plugin is a digital recreation inspired by the Moo
 - **Filters**: Filters affect the signal before and after the delay line, shaping the tone of the delayed signal. Two cutoff modes are available (short mode: 3000Hz, long mode: 17000Hz).
 - **LED Meter**: Display signal levels with different colors (red for >=0dbfs, yellow for -6db < sig < 0db, green for < -6db).
 - **Plugin GUI**: Intuitive GUI with parameters for Drive, Cutoff, Time, Feedback, Waveform (Sine, Triangle, Saw up, Saw down, Noise), Amount, Rate, Mix, and Dark/Bright switch for tone shaping.
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://github.com/alessandro-scalambrino/MoogerFooger-Emulation/assets/156260456/9bd1b14a-e47a-4d94-a9fe-d7869479938b" alt="Moogerfooger Analog Delay GUI" width="400">
+</div>
 
 ## Usage
 1. Build your own vst from source code.
