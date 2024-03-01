@@ -2,7 +2,7 @@
 
 ## Overview
 Moogerfooger Analog Delay VST Plugin is a digital recreation inspired by the Moog Moogerfooger MF-104M Analog Delay unit. This plugin is developed using C++ and the JUCE framework, aiming to replicate the warm analog delay sound with modulation and saturation effects.
-![gui](https://github.com/alessandro-scalambrino/MoogerFooger-Emulation/assets/156260456/9bd1b14a-e47a-4d94-a9fe-d7869479938b)
+<img src="https://github.com/alessandro-scalambrino/MoogerFooger-Emulation/assets/156260456/9bd1b14a-e47a-4d94-a9fe-d7869479938b" alt="Moogerfooger Analog Delay GUI" width="400">
 
 ### Features
 - **Bucket Brigade Delay (BBD) Emulation**: The plugin emulates the BBD delay line used in the Moogerfooger MF-104M, where the analog signal is moved along a series of capacitors, creating a warm and rich delay effect.
